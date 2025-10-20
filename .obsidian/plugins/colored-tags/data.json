@@ -1,0 +1,27 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "linux": 1,
+    "so": 2,
+    "git": 3,
+    "shell": 4,
+    "cli": 5,
+    "programação": 6,
+    "desenvolvimento": 7,
+    "javascript": 8,
+    "es6": 9,
+    "ES6": 10,
+    "ECMASCRIPT": 11,
+    "configuração": 12
+  },
+  "_version": 3
+}
