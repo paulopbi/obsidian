@@ -1,4 +1,0 @@
-#programação #desenvolvimento 
-
-- [[Git]]
-- [[Javascript]]
